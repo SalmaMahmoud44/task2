@@ -6,5 +6,5 @@ In this task, I worked on designing an email template with a focus on making it 
 
 I thoroughly enjoyed designing this template, and it was an experience filled with learning and development in the field of UI/UX design. 🚀🎨
 
-![Uploading email.png…]()
+![email](https://github.com/user-attachments/assets/d84e8a80-c9f9-49f8-a15a-29a07a90cf59)
 
